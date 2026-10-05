@@ -104,9 +104,7 @@ This Sales Dashboard converts raw sales data into meaningful business insights t
 It demonstrates practical skills in data analysis, dashboard development, visualization, and business reporting.
 
 👤 Author
-
-Narayan Kumar
+**Narayan Kumar**
 
 🔗 Project Type
-
 Data Analytics | Sales Dashboard | Business Intelligence
