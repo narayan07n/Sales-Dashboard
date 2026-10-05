@@ -95,12 +95,5 @@ These filters make the dashboard interactive and allow users to analyze specific
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard](https://github.com/narayan07n/Sales-Dashboard/blob/main/Screenshot%202026-10-05%20134500.png?raw=true)
 
-## 📂 Project Structure
-
-```text
-Sales-Dashboard/
-│
-├── sales-dashboard.png
-└── README.md
