@@ -109,4 +109,4 @@ It demonstrates practical skills in data analysis, dashboard development, visual
 
 🔗 Project Type
 
-Data Analytics | Sales Dashboard | Business Intelligence
+**Data Analytics | Sales Dashboard | Business Intelligence**
