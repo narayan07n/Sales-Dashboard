@@ -97,3 +97,16 @@ These filters make the dashboard interactive and allow users to analyze specific
 
 ![Sales Dashboard](https://github.com/narayan07n/Sales-Dashboard/blob/main/Screenshot%202026-10-05%20134500.png?raw=true)
 
+📌 Conclusion
+
+This Sales Dashboard converts raw sales data into meaningful business insights through interactive visualizations and KPIs.
+
+It demonstrates practical skills in data analysis, dashboard development, visualization, and business reporting.
+
+👤 Author
+
+Narayan Kumar
+
+🔗 Project Type
+
+Data Analytics | Sales Dashboard | Business Intelligence
